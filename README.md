@@ -36,5 +36,5 @@ Web app that marks class attendance from a single photo of the room, by detectin
 Python · PyTorch · YOLO · OpenCV · FastAPI · Django · Git
 
 ## Contact
-
-[linkedin.com/in/mohammd-almalkii](https://www.linkedin.com/in/mohammd-almalkii)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammd-almalkii/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:md.almalki6@gmail.com)
