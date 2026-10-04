@@ -11,7 +11,7 @@ Uses CCTV video to time traffic lights by per-lane vehicle density, and catches 
 - **Stack:** YOLOv8, DeepSort, PaddleOCR, SAHI, OpenCV, PyTorch, Streamlit, SUMO, SQLite
 - **Key result:** YOLOv8s detector reaches 92% mAP on vehicles and 68% mAP on license plates. PaddleOCR reads violator plates with 85% accuracy.
 - **Team project:** 4 members
-- **Links:** [Live demo (Hugging Face Spaces)](https://huggingface.co/spaces/M12ths/ADEL_app) · [Code](https://github.com/iwm10/ADEL-System)
+- **Links:**  [Code](https://github.com/iwm10/ADEL-System)
 
 ### Explainable Chest X-Ray Diagnosis
 
