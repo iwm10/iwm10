@@ -23,9 +23,17 @@ Multi-label classification of 14 thoracic pathologies on NIH ChestX-ray14, with 
 - **Team project:** 6 members
 - **Links:** [Code](https://github.com/iwm10/chest-xray-explainable-diagnosis)
 
+### Hadir: Face Recognition Attendance System
+
+Web app that marks class attendance from a single photo of the room, by detecting and recognizing each enrolled student's face.
+
+- **Stack:** Python, Django, YOLOv5, OpenCV, PCA, LDA, SQLite
+- **Context:** Taif University graduation project
+- **Links:** [Code](https://github.com/iwm10/hadir-face-attendance)
+
 ## Skills
 
-Python · PyTorch · YOLO · OpenCV · FastAPI · Git
+Python · PyTorch · YOLO · OpenCV · FastAPI · Django · Git
 
 ## Contact
 
